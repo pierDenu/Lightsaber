@@ -13,7 +13,9 @@
 
 ## Демонстрація проєкту
 
-(./assets/photo_2026-01-20_19-50-17.jpg)
+![Вигляд проекту](./assets/photo_2026-01-20_19-50-17.jpg)
+- [Переглянути відео демонстрації](https://youtube.com/shorts/dDH50N-pQVI)
+- [3Д модель](./assets/Saber_Complete.stl)
 
 
 ## Принцип роботи
